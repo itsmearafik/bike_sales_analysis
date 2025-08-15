@@ -66,4 +66,4 @@ Based on the insights above, I would recommend that bike manufacturers and retai
 However, to increase sales, efforts should be made by applying SMART (specific, measurable, achievable, relevant and time-bound) objectives and marketing strategies to convert those who didn’t purchase bikes into customers, especially in the Pacific and Europe regions.
 
 This is the final dashboard.<br>
-![](https://github.com/itsmearafik/bike_sales_analysis/blob/main/assets/bikesales_dashboard.png)
+![](https://github.com/itsmearafik/bike_sales_analysis/blob/main/assets/dashboard.png)
