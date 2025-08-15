@@ -11,6 +11,10 @@ The tasks for this project are:
 This project was made in Ms Excel but can be viewed in Google sheets or Ms Excel.
 The final result: ![] (<https://github.com/itsmearafik/bike_sales_analysis/blob/main/Excel_bikesales_Project%20Dataset.xlsx>)
 
+This project covers data cleaning, data analysis and data visualization process using Microsoft excel, and this is the project’s documentation.
+
+The major aim of this project is to communicate insights via an interactive dashboard determining the demographic factors that influences bike purchases. I will be using bicycle buyers’ different demographics to gather my insights and give recommendations.
+
 Steps or Procedures used to complete the above tasks:
 
 ## 1. Duplicate the raw data
@@ -43,6 +47,23 @@ Steps or Procedures used to complete the above tasks:
 - I created and renamed a new sheet 'Dashboard' to contain all the pivot tables and charts that I made.
 - I rearranged all tables, charts to look readable and presentable.
 - I also added slicers to my charts to enable interactivity by allowing the selection of different parameters.
+
+## Insights
+
+Male Bike buyers with higher income purchased more bikes compared to females with slightly lower income who did not purchase.
+Customers with the least commute (1 mile) own more bikes.
+
+Middle aged people between 31–54 own more bikes than others.
+
+North America has more customers purchase compared to Pacific and Europe region.
+
+Married people purchased 7% more bikes than single people.
+
+## Recommendations
+
+Based on the insights above, I would recommend that bike manufacturers and retailers focus their marketing efforts on male customers with higher income, as they are more likely to purchase bikes. Additionally, middle-aged people between 31–54 should also be targeted as they own more bikes compared to other age groups. Manufacturers and retailers should also consider the commuting distance of potential customers, as those with shorter commutes are more likely to own multiple bikes. Furthermore, the North American market should be a priority as it has more customers purchasing bikes compared to the Pacific and Europe regions. Finally, it is worth noting that married people purchased more bikes than single people, suggesting that family-oriented marketing strategies may be effective.
+
+However, to increase sales, efforts should be made by applying SMART (specific, measurable, achievable, relevant and time-bound) objectives and marketing strategies to convert those who didn’t purchase bikes into customers, especially in the Pacific and Europe regions.
 
 This is the final dashboard.<br>
 ![](https://github.com/itsmearafik/bike_sales_analysis/blob/main/assets/bikesales_dashboard.png)
